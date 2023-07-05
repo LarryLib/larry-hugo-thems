@@ -1,0 +1,5 @@
+baseURL = 'https://wuxuange.com/'
+languageCode = 'zh-cn'
+title = 'Larry的hugo站点'
+theme = 'ananke'
+
